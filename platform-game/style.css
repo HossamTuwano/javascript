@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+table {
+  background: #34a6fb;
+  height: 100vh;
+  width: 100vw;
+}

@@ -1,0 +1,10 @@
+body {
+  background-color: beige;
+}
+
+.trail {
+  position: absolute;
+  background-color: yellowgreen;
+  height: 3px;
+  width: 9px;
+}
